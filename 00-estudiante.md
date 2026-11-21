@@ -1,6 +1,6 @@
 # Datos del estudiante
 
-- **Apellido y nombre:**
+- **Apellido y nombre**  Medina Matilde 
 - **Carrera:** Tecnicatura Superior en Preceptoría
-- **Cohorte / turno:**
-- **Fecha:**
+- **Cohorte / turno:**Intensivo
+- **Fecha:**28-11-26
